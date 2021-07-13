@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360563518778",
+    "project_id": "veza-final",
+    "storage_bucket": "veza-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360563518778:android:477031f001047403847403",
+        "android_client_info": {
+          "package_name": "com.example.vezafinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360563518778-kq1593rb3i5ge0urbb4gfr9o0jcs44jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC07O66ETlhcQrmevJ4QN1N4URGv7ctL0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360563518778-kq1593rb3i5ge0urbb4gfr9o0jcs44jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
